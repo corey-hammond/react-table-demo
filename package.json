@@ -1,5 +1,5 @@
 {
-  "name": "react-table",
+  "name": "react-table-demo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,6 +12,7 @@
     "next": "10.0.7",
     "react": "17.0.1",
     "react-dom": "17.0.1",
+    "react-table": "^7.6.3",
     "sass": "^1.32.8"
   }
 }
